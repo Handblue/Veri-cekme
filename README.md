@@ -21,7 +21,7 @@
  ```
  <br/>
 
- Kodları açıp bardak kısmını silip çekmek istediğiniz ürünü giriniz. Veya Hani siteden veri çekecekseniz o siteye girin ve istediğiniz ürünü aratın. Arttıktan sonra yukarıda çıkan URL linkini kopyalayın ve bu kısma yapıştırın. (tüm url yi değil anahtar kelimeye kadar olan yeri.)
+ Kodları açıp bardak kısmını silip çekmek istediğiniz ürünü giriniz. Veya Hani siteden veri çekecekseniz o siteye girin ve istediğiniz ürünü aratın. Arattıktan sonra yukarıda çıkan URL linkini kopyalayın ve bu kısma yapıştırın. (tüm url yi değil anahtar kelimeye kadar olan yeri.)
 
 <br />
 📬 Find me 
